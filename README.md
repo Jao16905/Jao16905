@@ -1,7 +1,7 @@
 ### Salve, meu nome é João Gabriel👊
 
 - 🌱 Estudando HTML, CSS e Javascript
-- 🏤 Futoro empresário de sucesso
+- 🏤 Futuro empresário de sucesso
 
 <div align="center">
   <a href="https://github.com/Jao16905 ">
