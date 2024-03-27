@@ -1,6 +1,8 @@
 ### Salve, meu nome é João Gabriel👊
 
-- 🌱 Estudando HTML, CSS e Javascript
+- 🌱 Contínuo aprendiz
+- 🏫 SI - UFAC
+- 🖥 Programador Web
 - 🏤 Futuro empresário de sucesso
 
 <div align="center">
